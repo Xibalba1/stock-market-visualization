@@ -6,7 +6,7 @@
 </p>
 
 
-A visualization of stock market data written in Processing, utilizing the MVC framework
+A visualization of stock market data written in Processing, utilizing the model-view-controller (MVC) framework
 
 <strong>Data provided for free by <a href="https://iextrading.com/developer">IEX</a>. View IEX’s <a href="https://iextrading.com/api-exhibit-a/">Terms of Use</a>.</strong>
 
