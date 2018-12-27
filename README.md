@@ -40,6 +40,6 @@ View 2 displays the average daily stock price of a single symbol for the last 52
 
 View 3 provides a time series for the average price of a single stock over the course of one trading session (i.e. one day).  The frequency of the data is one minute.  Hover the mouse over each observation (or rather, an X-intersection to be precise) causes the display to update with data relevant to that observation.
 
-## A Note About the Investor's Exchange
+## A Note About the Investors Exchange
 
 The Investors Exchange (IEX) is a new stock exchange which was founded to favor the trading activities of  long-term investors such as mutual funds and pension funds over high frequency traders. The IEX generously provides a <a href="https://iextrading.com/developer/">free, easy to use, and well documented API</a>. The founding of the IEX is documented in the fascinating book <a href="https://www.amazon.com/Flash-Boys-Wall-Street-Revolt/dp/0393351599">Flash Boys: A Wall Street Revolt</a> by Michael Lewis.
