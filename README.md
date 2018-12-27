@@ -15,7 +15,7 @@ A visualization of stock market data written in Processing, utilizing the MVC fr
 1. Download and install Processing: https://processing.org/download/  
 2. Download and install the treemappa package:  http://www.treemappa.com/  
 3. Set the value of the `CSV_FILE_NAME` constant in the `TreeMapChart` class to the absolute filepath of the data/sp500-treemap-data.csv file  
-4. Ensure the <a href="data/sp-500-symbols.txt">listing of symbols for companies in the S&P 500</a> is up-to-date and accurate.
+4. Ensure the <a href="Main/data/sp-500-symbols.txt">listing of symbols for companies in the S&P 500</a> is up-to-date and accurate.
 4. Using Processing, run the Main.pde file  
 
 ## Overview
