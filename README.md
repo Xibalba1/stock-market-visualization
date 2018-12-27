@@ -1,5 +1,8 @@
-# stock-market-visualization
+# Stock Market Visualization
+
 A visualization of stock market data written in Processing, utilizing the MVC framework
+
+<strong>Data provided for free by <a href="https://iextrading.com/developer">IEX</a>. View IEX’s <a href="https://iextrading.com/api-exhibit-a/">Terms of Use</a>.</strong>
 
 ![View 1](images/view1_treemap.png "View 1 - S&P 500 Treemap")
 
