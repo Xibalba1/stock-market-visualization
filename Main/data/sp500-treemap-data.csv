@@ -1,0 +1,503 @@
+#Label,Size,Colour,x,y,Level0,Level1
+A,92,0,,,S&P 500,Healthcare
+AAL,63,0,,,S&P 500,Industrials
+AAP,50,1,,,S&P 500,Consumer Cyclical
+AAPL,3237,0,,,S&P 500,Technology
+ABBV,588,0,,,S&P 500,Healthcare
+ABC,69,0,,,S&P 500,Healthcare
+ABMD,58,1,,,S&P 500,Healthcare
+ABT,534,1,,,S&P 500,Healthcare
+ACN,413,0,,,S&P 500,Technology
+ADBE,465,1,,,S&P 500,Technology
+ADI,138,0,,,S&P 500,Technology
+ADM,103,1,,,S&P 500,Consumer Defensive
+ADP,248,1,,,S&P 500,Industrials
+ADS,36,0,,,S&P 500,Financial Services
+ADSK,120,1,,,S&P 500,Technology
+AEE,71,1,,,S&P 500,Utilities
+AEP,168,1,,,S&P 500,Utilities
+AES,42,1,,,S&P 500,Utilities
+AFL,149,1,,,S&P 500,Financial Services
+AGN,203,0,,,S&P 500,Healthcare
+AIG,153,0,,,S&P 500,Financial Services
+AIV,30,1,,,S&P 500,Real Estate
+AIZ,23,0,,,S&P 500,Financial Services
+AJG,58,1,,,S&P 500,Financial Services
+AKAM,44,0,,,S&P 500,Technology
+ALB,36,0,,,S&P 500,Basic Materials
+ALGN,71,0,,,S&P 500,Healthcare
+ALK,32,0,,,S&P 500,Industrials
+ALL,123,0,,,S&P 500,Financial Services
+ALLE,33,0,,,S&P 500,Industrials
+ALXN,97,0,,,S&P 500,Healthcare
+AMAT,129,0,,,S&P 500,Technology
+AMD,77,1,,,S&P 500,Technology
+AME,68,0,,,S&P 500,Industrials
+AMG,22,0,,,S&P 500,Financial Services
+AMGN,528,1,,,S&P 500,Healthcare
+AMP,63,0,,,S&P 500,Financial Services
+AMT,314,1,,,S&P 500,Communication Services
+AMZN,3053,1,,,S&P 500,Consumer Cyclical
+ANET,66,0,,,S&P 500,Technology
+ANSS,53,0,,,S&P 500,Technology
+ANTM,299,1,,,S&P 500,Healthcare
+AON,153,1,,,S&P 500,Financial Services
+AOS,33,0,,,S&P 500,Industrials
+APA,44,0,,,S&P 500,Energy
+APC,95,0,,,S&P 500,Energy
+APD,152,0,,,S&P 500,Basic Materials
+APH,105,0,,,S&P 500,Technology
+APTV,73,0,,,S&P 500,Consumer Cyclical
+ARE,55,0,,,S&P 500,Real Estate
+ARNC,36,0,,,S&P 500,Industrials
+ATVI,155,0,,,S&P 500,Technology
+AVB,108,1,,,S&P 500,Real Estate
+AVGO,442,0,,,S&P 500,Technology
+AVY,33,0,,,S&P 500,Industrials
+AWK,72,1,,,S&P 500,Utilities
+AXP,355,0,,,S&P 500,Financial Services
+AZO,96,1,,,S&P 500,Consumer Cyclical
+BA,776,1,,,S&P 500,Industrials
+BAC,1036,0,,,S&P 500,Financial Services
+BAX,151,0,,,S&P 500,Healthcare
+BBT,147,0,,,S&P 500,Financial Services
+BBY,60,0,,,S&P 500,Consumer Cyclical
+BDX,262,0,,,S&P 500,Healthcare
+BEN,66,0,,,S&P 500,Financial Services
+BF.B,22,0,,,S&P 500,Consumer Defensive
+BHF,16,0,,,S&P 500,Financial Services
+BHGE,104,0,,,S&P 500,Energy
+BIIB,260,0,,,S&P 500,Healthcare
+BK,204,0,,,S&P 500,Financial Services
+BKNG,348,0,,,S&P 500,Consumer Cyclical
+BLK,266,0,,,S&P 500,Financial Services
+BLL,66,1,,,S&P 500,Consumer Cyclical
+BMY,369,0,,,S&P 500,Healthcare
+BR,49,1,,,S&P 500,Industrials
+BRK.B,1138,0,,,S&P 500,Financial Services
+BSX,204,1,,,S&P 500,Healthcare
+BWA,32,0,,,S&P 500,Consumer Cyclical
+BXP,78,0,,,S&P 500,Real Estate
+C,558,0,,,S&P 500,Financial Services
+CAG,47,0,,,S&P 500,Consumer Defensive
+CAH,59,0,,,S&P 500,Healthcare
+CAT,320,0,,,S&P 500,Industrials
+CB,257,0,,,S&P 500,Financial Services
+CBOE,47,0,,,S&P 500,Financial Services
+CBRE,59,0,,,S&P 500,Real Estate
+CBS,73,0,,,S&P 500,Consumer Cyclical
+CCI,200,1,,,S&P 500,Real Estate
+CCL,155,0,,,S&P 500,Consumer Cyclical
+CDNS,52,0,,,S&P 500,Technology
+CELG,192,0,,,S&P 500,Healthcare
+CERN,74,0,,,S&P 500,Technology
+CF,43,1,,,S&P 500,Basic Materials
+CFG,60,0,,,S&P 500,Financial Services
+CHD,71,1,,,S&P 500,Consumer Defensive
+CHRW,50,0,,,S&P 500,Industrials
+CHTR,290,0,,,S&P 500,Communication Services
+CI,314,0,,,S&P 500,Healthcare
+CINF,54,1,,,S&P 500,Financial Services
+CL,233,0,,,S&P 500,Consumer Defensive
+CLX,86,1,,,S&P 500,Consumer Defensive
+CMA,48,0,,,S&P 500,Financial Services
+CMCSA,699,0,,,S&P 500,Communication Services
+CME,293,1,,,S&P 500,Financial Services
+CMG,49,1,,,S&P 500,Consumer Cyclical
+CMI,93,0,,,S&P 500,Industrials
+CMS,63,1,,,S&P 500,Utilities
+CNC,104,1,,,S&P 500,Healthcare
+CNP,63,1,,,S&P 500,Utilities
+COF,155,0,,,S&P 500,Financial Services
+COG,44,0,,,S&P 500,Energy
+COO,53,1,,,S&P 500,Healthcare
+COP,304,1,,,S&P 500,Energy
+COST,388,1,,,S&P 500,Consumer Defensive
+COTY,21,0,,,S&P 500,Consumer Defensive
+CPB,46,0,,,S&P 500,Consumer Defensive
+CPRT,48,1,,,S&P 500,Consumer Cyclical
+CRM,431,1,,,S&P 500,Technology
+CSCO,841,1,,,S&P 500,Technology
+CSX,230,1,,,S&P 500,Industrials
+CTAS,77,1,,,S&P 500,Industrials
+CTL,72,0,,,S&P 500,Communication Services
+CTSH,161,0,,,S&P 500,Technology
+CTXS,62,1,,,S&P 500,Technology
+CVS,378,0,,,S&P 500,Healthcare
+CVX,896,0,,,S&P 500,Energy
+CXO,88,0,,,S&P 500,Energy
+D,216,0,,,S&P 500,Utilities
+DAL,152,0,,,S&P 500,Industrials
+DE,203,0,,,S&P 500,Industrials
+DFS,85,0,,,S&P 500,Financial Services
+DG,120,1,,,S&P 500,Consumer Defensive
+DGX,50,0,,,S&P 500,Healthcare
+DHI,57,0,,,S&P 500,Consumer Cyclical
+DHR,308,1,,,S&P 500,Healthcare
+DIS,694,0,,,S&P 500,Consumer Cyclical
+DISCA,59,1,,,S&P 500,Consumer Cyclical
+DISCK,55,1,,,S&P 500,Consumer Cyclical
+DISH,52,0,,,S&P 500,Communication Services
+DLR,98,1,,,S&P 500,Real Estate
+DLTR,92,0,,,S&P 500,Consumer Defensive
+DOV,45,0,,,S&P 500,Industrials
+DRE,41,1,,,S&P 500,Real Estate
+DRI,55,1,,,S&P 500,Consumer Cyclical
+DTE,92,1,,,S&P 500,Utilities
+DUK,277,1,,,S&P 500,Utilities
+DVA,37,0,,,S&P 500,Healthcare
+DVN,45,0,,,S&P 500,Energy
+DWDP,523,0,,,S&P 500,Basic Materials
+DXC,65,0,,,S&P 500,Technology
+EA,104,0,,,S&P 500,Technology
+EBAY,116,0,,,S&P 500,Consumer Cyclical
+ECL,185,1,,,S&P 500,Basic Materials
+ED,109,0,,,S&P 500,Utilities
+EFX,50,0,,,S&P 500,Industrials
+EIX,82,0,,,S&P 500,Utilities
+EL,206,0,,,S&P 500,Consumer Defensive
+EMN,44,0,,,S&P 500,Basic Materials
+EMR,160,0,,,S&P 500,Industrials
+EOG,223,0,,,S&P 500,Energy
+EQIX,126,0,,,S&P 500,Real Estate
+EQR,109,1,,,S&P 500,Real Estate
+ES,93,1,,,S&P 500,Utilities
+ESS,73,1,,,S&P 500,Real Estate
+ETFC,48,0,,,S&P 500,Financial Services
+ETN,130,0,,,S&P 500,Industrials
+ETR,72,1,,,S&P 500,Utilities
+EVRG,68,1,,,S&P 500,Utilities
+EW,135,1,,,S&P 500,Healthcare
+EXC,196,1,,,S&P 500,Utilities
+EXPD,50,1,,,S&P 500,Industrials
+EXPE,75,0,,,S&P 500,Consumer Cyclical
+EXR,52,1,,,S&P 500,Real Estate
+F,141,0,,,S&P 500,Consumer Cyclical
+FAST,65,0,,,S&P 500,Industrials
+FB,1656,0,,,S&P 500,Technology
+FBHS,23,0,,,S&P 500,Consumer Cyclical
+FCX,65,0,,,S&P 500,Basic Materials
+FDX,185,0,,,S&P 500,Industrials
+FE,85,1,,,S&P 500,Utilities
+FFIV,42,1,,,S&P 500,Technology
+FIS,145,1,,,S&P 500,Industrials
+FISV,127,1,,,S&P 500,Industrials
+FITB,68,0,,,S&P 500,Financial Services
+FL,25,1,,,S&P 500,Consumer Cyclical
+FLIR,26,0,,,S&P 500,Technology
+FLR,19,0,,,S&P 500,Industrials
+FLS,21,0,,,S&P 500,Industrials
+FLT,100,0,,,S&P 500,Industrials
+FMC,43,0,,,S&P 500,Basic Materials
+FOX,396,1,,,S&P 500,Consumer Cyclical
+FOXA,262,1,,,S&P 500,Consumer Cyclical
+FRT,39,0,,,S&P 500,Real Estate
+FTI,38,0,,,S&P 500,Energy
+FTNT,51,1,,,S&P 500,Technology
+FTV,98,0,,,S&P 500,Technology
+GD,203,0,,,S&P 500,Industrials
+GE,279,0,,,S&P 500,Industrials
+GILD,363,0,,,S&P 500,Healthcare
+GIS,104,0,,,S&P 500,Consumer Defensive
+GLW,104,0,,,S&P 500,Technology
+GM,212,0,,,S&P 500,Consumer Cyclical
+GOOG,3154,0,,,S&P 500,Technology
+GOOGL,3181,0,,,S&P 500,Technology
+GPC,62,1,,,S&P 500,Consumer Cyclical
+GPN,70,0,,,S&P 500,Industrials
+GPS,43,0,,,S&P 500,Consumer Cyclical
+GRMN,53,1,,,S&P 500,Technology
+GS,270,0,,,S&P 500,Financial Services
+GT,20,0,,,S&P 500,Consumer Cyclical
+GWW,69,1,,,S&P 500,Industrials
+HAL,102,0,,,S&P 500,Energy
+HAS,45,0,,,S&P 500,Consumer Cyclical
+HBAN,55,0,,,S&P 500,Financial Services
+HBI,19,0,,,S&P 500,Consumer Cyclical
+HCA,185,1,,,S&P 500,Healthcare
+HCP,59,1,,,S&P 500,Real Estate
+HD,829,0,,,S&P 500,Consumer Cyclical
+HES,50,0,,,S&P 500,Energy
+HFC,37,1,,,S&P 500,Energy
+HIG,67,0,,,S&P 500,Financial Services
+HII,35,0,,,S&P 500,Industrials
+HLT,91,0,,,S&P 500,Consumer Cyclical
+HOG,24,0,,,S&P 500,Consumer Cyclical
+HOLX,50,0,,,S&P 500,Healthcare
+HON,429,0,,,S&P 500,Industrials
+HP,22,0,,,S&P 500,Energy
+HPE,79,0,,,S&P 500,Technology
+HPQ,139,0,,,S&P 500,Technology
+HRB,22,0,,,S&P 500,Consumer Cyclical
+HRL,101,1,,,S&P 500,Consumer Defensive
+HRS,70,0,,,S&P 500,Technology
+HSIC,52,1,,,S&P 500,Healthcare
+HST,54,0,,,S&P 500,Real Estate
+HSY,100,0,,,S&P 500,Consumer Defensive
+HUM,174,1,,,S&P 500,Healthcare
+IBM,454,0,,,S&P 500,Technology
+ICE,187,1,,,S&P 500,Financial Services
+IDXX,70,1,,,S&P 500,Healthcare
+IFF,61,0,,,S&P 500,Basic Materials
+ILMN,186,1,,,S&P 500,Healthcare
+INCY,57,0,,,S&P 500,Healthcare
+INFO,82,1,,,S&P 500,Industrials
+INTC,924,0,,,S&P 500,Technology
+INTU,220,1,,,S&P 500,Technology
+IP,70,0,,,S&P 500,Consumer Cyclical
+IPG,35,1,,,S&P 500,Consumer Cyclical
+IPGP,26,0,,,S&P 500,Technology
+IQV,97,1,,,S&P 500,Healthcare
+IR,98,1,,,S&P 500,Industrials
+IRM,40,0,,,S&P 500,Industrials
+ISRG,230,1,,,S&P 500,Healthcare
+IT,51,1,,,S&P 500,Technology
+ITW,183,0,,,S&P 500,Industrials
+IVZ,30,0,,,S&P 500,Financial Services
+JBHT,44,0,,,S&P 500,Industrials
+JCI,122,0,,,S&P 500,Industrials
+JEC,36,0,,,S&P 500,Industrials
+JEF,24,0,,,S&P 500,Financial Services
+JKHY,43,1,,,S&P 500,Industrials
+JNJ,1530,0,,,S&P 500,Healthcare
+JNPR,40,0,,,S&P 500,Technology
+JPM,1423,0,,,S&P 500,Financial Services
+JWN,34,0,,,S&P 500,Consumer Cyclical
+K,90,0,,,S&P 500,Consumer Defensive
+KEY,66,0,,,S&P 500,Financial Services
+KEYS,48,1,,,S&P 500,Technology
+KHC,241,0,,,S&P 500,Consumer Defensive
+KIM,28,0,,,S&P 500,Real Estate
+KLAC,57,0,,,S&P 500,Technology
+KMB,171,0,,,S&P 500,Consumer Defensive
+KMI,150,0,,,S&P 500,Energy
+KMX,47,0,,,S&P 500,Consumer Cyclical
+KO,908,1,,,S&P 500,Consumer Defensive
+KORS,25,0,,,S&P 500,Consumer Cyclical
+KR,98,1,,,S&P 500,Consumer Defensive
+KSS,45,1,,,S&P 500,Consumer Cyclical
+KSU,42,0,,,S&P 500,Industrials
+L,62,0,,,S&P 500,Financial Services
+LB,31,0,,,S&P 500,Consumer Cyclical
+LEG,20,0,,,S&P 500,Consumer Cyclical
+LEN,58,0,,,S&P 500,Consumer Cyclical
+LH,56,0,,,S&P 500,Healthcare
+LIN,384,0,,,S&P 500,Basic Materials
+LKQ,35,0,,,S&P 500,Consumer Cyclical
+LLL,59,0,,,S&P 500,Industrials
+LLY,525,1,,,S&P 500,Healthcare
+LMT,324,0,,,S&P 500,Industrials
+LNC,48,0,,,S&P 500,Financial Services
+LNT,45,1,,,S&P 500,Utilities
+LOW,320,0,,,S&P 500,Consumer Cyclical
+LRCX,88,0,,,S&P 500,Technology
+LUV,115,0,,,S&P 500,Industrials
+LYB,139,0,,,S&P 500,Basic Materials
+M,40,1,,,S&P 500,Consumer Cyclical
+MA,899,1,,,S&P 500,Financial Services
+MAA,48,1,,,S&P 500,Real Estate
+MAC,26,0,,,S&P 500,Real Estate
+MAR,160,0,,,S&P 500,Consumer Cyclical
+MAS,39,0,,,S&P 500,Basic Materials
+MAT,14,0,,,S&P 500,Consumer Cyclical
+MCD,609,1,,,S&P 500,Consumer Cyclical
+MCHP,72,0,,,S&P 500,Technology
+MCK,98,0,,,S&P 500,Healthcare
+MCO,115,0,,,S&P 500,Financial Services
+MDLZ,266,0,,,S&P 500,Consumer Defensive
+MDT,535,1,,,S&P 500,Healthcare
+MET,175,0,,,S&P 500,Financial Services
+MGM,53,0,,,S&P 500,Consumer Cyclical
+MHK,38,0,,,S&P 500,Consumer Cyclical
+MKC,82,1,,,S&P 500,Consumer Defensive
+MLM,47,0,,,S&P 500,Basic Materials
+MMC,176,0,,,S&P 500,Financial Services
+MMM,483,0,,,S&P 500,Industrials
+MNST,123,0,,,S&P 500,Consumer Defensive
+MO,415,0,,,S&P 500,Consumer Defensive
+MOS,49,1,,,S&P 500,Basic Materials
+MPC,174,0,,,S&P 500,Energy
+MRK,859,1,,,S&P 500,Healthcare
+MRO,48,0,,,S&P 500,Energy
+MS,295,0,,,S&P 500,Financial Services
+MSCI,55,1,,,S&P 500,Financial Services
+MSFT,3357,1,,,S&P 500,Technology
+MSI,82,1,,,S&P 500,Technology
+MTB,88,0,,,S&P 500,Financial Services
+MTD,61,0,,,S&P 500,Healthcare
+MU,151,0,,,S&P 500,Technology
+MYL,62,0,,,S&P 500,Healthcare
+NBL,38,0,,,S&P 500,Energy
+NCLH,40,0,,,S&P 500,Consumer Cyclical
+NDAQ,58,1,,,S&P 500,Financial Services
+NEE,373,1,,,S&P 500,Utilities
+NEM,85,0,,,S&P 500,Basic Materials
+NFLX,473,1,,,S&P 500,Consumer Cyclical
+NFX,12,0,,,S&P 500,Energy
+NI,43,1,,,S&P 500,Utilities
+NKE,502,1,,,S&P 500,Consumer Cyclical
+NKTR,24,0,,,S&P 500,Healthcare
+NLSN,36,0,,,S&P 500,Industrials
+NOC,182,0,,,S&P 500,Industrials
+NOV,43,0,,,S&P 500,Energy
+NRG,48,1,,,S&P 500,Utilities
+NSC,176,1,,,S&P 500,Industrials
+NTAP,64,1,,,S&P 500,Technology
+NTRS,79,0,,,S&P 500,Financial Services
+NUE,72,0,,,S&P 500,Basic Materials
+NVDA,360,0,,,S&P 500,Technology
+NWL,38,0,,,S&P 500,Consumer Defensive
+NWS,30,0,,,S&P 500,Consumer Cyclical
+NWSA,29,0,,,S&P 500,Consumer Cyclical
+O,82,1,,,S&P 500,Real Estate
+OKE,97,1,,,S&P 500,Energy
+OMC,71,0,,,S&P 500,Consumer Cyclical
+ORCL,711,0,,,S&P 500,Technology
+ORLY,121,1,,,S&P 500,Consumer Cyclical
+OXY,200,0,,,S&P 500,Energy
+PAYX,102,0,,,S&P 500,Industrials
+PBCT,24,0,,,S&P 500,Financial Services
+PCAR,87,0,,,S&P 500,Industrials
+PCG,55,0,,,S&P 500,Utilities
+PEG,117,1,,,S&P 500,Utilities
+PEP,695,0,,,S&P 500,Consumer Defensive
+PFE,1089,1,,,S&P 500,Healthcare
+PFG,54,0,,,S&P 500,Financial Services
+PG,1011,1,,,S&P 500,Consumer Defensive
+PGR,154,1,,,S&P 500,Financial Services
+PH,86,0,,,S&P 500,Industrials
+PHM,32,0,,,S&P 500,Consumer Cyclical
+PKG,34,0,,,S&P 500,Consumer Cyclical
+PKI,37,1,,,S&P 500,Healthcare
+PLD,163,0,,,S&P 500,Real Estate
+PM,476,0,,,S&P 500,Consumer Defensive
+PNC,235,0,,,S&P 500,Financial Services
+PNR,28,0,,,S&P 500,Industrials
+PNW,44,1,,,S&P 500,Utilities
+PPG,106,0,,,S&P 500,Basic Materials
+PPL,92,0,,,S&P 500,Utilities
+PRGO,23,0,,,S&P 500,Healthcare
+PRU,147,0,,,S&P 500,Financial Services
+PSA,159,1,,,S&P 500,Real Estate
+PSX,168,0,,,S&P 500,Energy
+PVH,30,0,,,S&P 500,Consumer Cyclical
+PWR,18,0,,,S&P 500,Industrials
+PXD,95,0,,,S&P 500,Energy
+PYPL,421,1,,,S&P 500,Financial Services
+QCOM,302,0,,,S&P 500,Technology
+QRVO,32,0,,,S&P 500,Technology
+RCL,86,0,,,S&P 500,Consumer Cyclical
+RE,38,0,,,S&P 500,Financial Services
+REG,43,0,,,S&P 500,Real Estate
+REGN,171,0,,,S&P 500,Healthcare
+RF,60,0,,,S&P 500,Financial Services
+RHI,29,0,,,S&P 500,Industrials
+RHT,142,1,,,S&P 500,Technology
+RJF,45,0,,,S&P 500,Financial Services
+RL,35,0,,,S&P 500,Consumer Cyclical
+RMD,68,1,,,S&P 500,Healthcare
+ROK,79,0,,,S&P 500,Industrials
+ROL,51,1,,,S&P 500,Industrials
+ROP,118,1,,,S&P 500,Industrials
+ROST,131,0,,,S&P 500,Consumer Cyclical
+RSG,104,1,,,S&P 500,Industrials
+RTN,193,0,,,S&P 500,Industrials
+SBAC,83,1,,,S&P 500,Communication Services
+SBUX,349,1,,,S&P 500,Consumer Cyclical
+SCG,31,1,,,S&P 500,Utilities
+SCHW,239,0,,,S&P 500,Financial Services
+SEE,24,0,,,S&P 500,Consumer Cyclical
+SHW,158,0,,,S&P 500,Basic Materials
+SIVB,44,0,,,S&P 500,Financial Services
+SJM,49,0,,,S&P 500,Consumer Defensive
+SLB,226,0,,,S&P 500,Energy
+SLG,30,0,,,S&P 500,Real Estate
+SNA,35,0,,,S&P 500,Industrials
+SNPS,55,0,,,S&P 500,Technology
+SO,205,0,,,S&P 500,Utilities
+SPG,230,1,,,S&P 500,Real Estate
+SPGI,185,0,,,S&P 500,Financial Services
+SRCL,14,0,,,S&P 500,Industrials
+SRE,136,1,,,S&P 500,Utilities
+STI,97,0,,,S&P 500,Financial Services
+STT,105,0,,,S&P 500,Financial Services
+STX,48,0,,,S&P 500,Technology
+STZ,138,0,,,S&P 500,Consumer Defensive
+SWK,78,0,,,S&P 500,Industrials
+SWKS,51,0,,,S&P 500,Technology
+SYF,74,0,,,S&P 500,Financial Services
+SYK,252,0,,,S&P 500,Healthcare
+SYMC,53,0,,,S&P 500,Technology
+SYY,144,1,,,S&P 500,Consumer Defensive
+T,925,0,,,S&P 500,Communication Services
+TAP,41,0,,,S&P 500,Consumer Defensive
+TDG,77,1,,,S&P 500,Industrials
+TEL,112,0,,,S&P 500,Technology
+TGT,149,0,,,S&P 500,Consumer Defensive
+TIF,42,0,,,S&P 500,Consumer Cyclical
+TJX,478,1,,,S&P 500,Consumer Cyclical
+TMK,36,0,,,S&P 500,Financial Services
+TMO,389,1,,,S&P 500,Healthcare
+TPR,43,0,,,S&P 500,Consumer Cyclical
+TRIP,33,1,,,S&P 500,Consumer Cyclical
+TROW,94,0,,,S&P 500,Financial Services
+TRV,138,0,,,S&P 500,Financial Services
+TSCO,44,1,,,S&P 500,Consumer Cyclical
+TSN,86,0,,,S&P 500,Consumer Defensive
+TSS,64,0,,,S&P 500,Financial Services
+TTWO,52,0,,,S&P 500,Technology
+TWTR,93,1,,,S&P 500,Technology
+TXN,391,0,,,S&P 500,Technology
+TXT,49,0,,,S&P 500,Industrials
+UA,31,1,,,S&P 500,Consumer Cyclical
+UAA,34,1,,,S&P 500,Consumer Cyclical
+UAL,100,1,,,S&P 500,Industrials
+UDR,49,1,,,S&P 500,Real Estate
+UHS,48,1,,,S&P 500,Healthcare
+ULTA,63,1,,,S&P 500,Consumer Cyclical
+UNH,1041,1,,,S&P 500,Healthcare
+UNM,27,0,,,S&P 500,Financial Services
+UNP,438,1,,,S&P 500,Industrials
+UPS,358,0,,,S&P 500,Industrials
+URI,36,0,,,S&P 500,Industrials
+USB,328,0,,,S&P 500,Financial Services
+UTX,409,0,,,S&P 500,Industrials
+V,1284,1,,,S&P 500,Financial Services
+VAR,45,0,,,S&P 500,Healthcare
+VFC,124,0,,,S&P 500,Consumer Cyclical
+VIAB,40,0,,,S&P 500,Consumer Cyclical
+VLO,135,0,,,S&P 500,Energy
+VMC,55,0,,,S&P 500,Basic Materials
+VNO,53,0,,,S&P 500,Real Estate
+VRSK,78,1,,,S&P 500,Industrials
+VRSN,78,1,,,S&P 500,Technology
+VRTX,180,1,,,S&P 500,Healthcare
+VTR,95,1,,,S&P 500,Real Estate
+VZ,1018,1,,,S&P 500,Communication Services
+WAT,61,0,,,S&P 500,Healthcare
+WBA,286,0,,,S&P 500,Consumer Defensive
+WCG,51,1,,,S&P 500,Healthcare
+WDC,47,0,,,S&P 500,Technology
+WEC,99,1,,,S&P 500,Utilities
+WELL,115,1,,,S&P 500,Real Estate
+WFC,953,0,,,S&P 500,Financial Services
+WHR,30,0,,,S&P 500,Consumer Cyclical
+WLTW,88,0,,,S&P 500,Financial Services
+WM,165,1,,,S&P 500,Industrials
+WMB,115,0,,,S&P 500,Energy
+WMT,1158,0,,,S&P 500,Consumer Defensive
+WRK,42,0,,,S&P 500,Consumer Cyclical
+WU,34,0,,,S&P 500,Financial Services
+WY,73,0,,,S&P 500,Basic Materials
+WYNN,46,0,,,S&P 500,Consumer Cyclical
+XEC,25,0,,,S&P 500,Energy
+XEL,116,1,,,S&P 500,Utilities
+XLNX,93,1,,,S&P 500,Technology
+XOM,1288,0,,,S&P 500,Energy
+XRAY,36,0,,,S&P 500,Healthcare
+XRX,20,0,,,S&P 500,Technology
+XYL,51,0,,,S&P 500,Industrials
+YUM,126,1,,,S&P 500,Consumer Cyclical
+ZBH,92,0,,,S&P 500,Healthcare
+ZION,34,0,,,S&P 500,Financial Services
+ZTS,176,1,,,S&P 500,Healthcare

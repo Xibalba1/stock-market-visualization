@@ -15,11 +15,12 @@ A visualization of stock market data written in Processing, utilizing the MVC fr
 1. Download and install Processing: https://processing.org/download/  
 2. Download and install the treemappa package:  http://www.treemappa.com/  
 3. Set the value of the `CSV_FILE_NAME` constant in the `TreeMapChart` class to the absolute filepath of the data/sp500-treemap-data.csv file  
+4. Ensure the <a href="data/sp-500-symbols.txt">listing of symbols for companies in the S&P 500</a> is up-to-date and accurate.
 4. Using Processing, run the Main.pde file  
 
 ## Overview
 
-This project is written in <a href="https://processing.org/">Processing</a> language/library/IDE.  It implements three interactive stock market charts in the MVC framework.  The first visualization (view 1) is a <a href="https://en.wikipedia.org/wiki/Treemapping">treemap</a> displaying data of the S&P 500 for the last day:
+This project is written in <a href="https://processing.org/">Processing</a> language/library/IDE.  It implements three interactive stock market charts in the MVC framework.  The first visualization (view 1) is a <a href="https://en.wikipedia.org/wiki/Treemapping">treemap</a> displaying data of the <a href="https://en.wikipedia.org/wiki/S%26P_500_Index">S&P 500</a> for the last day:
 <p float="left">
 	<img src="images/view1_treemap_large.png" width="400" />
 </p>
