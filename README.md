@@ -4,7 +4,12 @@ A visualization of stock market data written in Processing, utilizing the MVC fr
 
 <strong>Data provided for free by <a href="https://iextrading.com/developer">IEX</a>. View IEX’s <a href="https://iextrading.com/api-exhibit-a/">Terms of Use</a>.</strong>
 
-![View 1](images/view1_treemap_small.png "View 1 - S&P 500 Treemap")
+<!-- ![View 1](images/view1_treemap_small.png "View 1 - S&P 500 Treemap") -->
+
+<p float="left">
+  <img src="images/view1_treemap_small.png" width="100" />
+  <img src="images/view2_radial_last_52_weeks_daily_close_timeseries_small.png" width="100" /> 
+</p>
 
 
 ## Setup and Run
